@@ -71,6 +71,6 @@ To build an **interactive dashboard** that provides actionable insights into ret
 This project was developed by learning from a 📺 **YouTube Power BI Tutorial**, applying hands-on practice to build a real-world retail analytics dashboard.
 
 ## 📸 Dashboard Preview:
-![Snapshot of the Dashboard]
+![Snapshot of the Dashboard](https://github.com/GracySingh2003/Blinkit-Sales-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
 ⭐ *If you found this project useful, consider giving it a star!*
